@@ -1,0 +1,64 @@
+*{
+    font-family: helvetica;
+}
+
+body{
+    margin: 0;
+}
+
+nav {
+    background-color: mediumorchid;
+}
+
+img {
+    width: 100%;
+    margin: 0 auto;
+}
+
+body {
+    margin: 0 auto;
+}
+
+nav h1 {
+    text-align: left;
+    padding-left: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+
+}
+
+h2{
+    text-align: left;
+    padding-left: 1em;
+    padding-top: 2em;
+
+}
+section p{
+    text-align: left;
+    padding-left: 1em;
+
+}
+
+h3{
+    text-align: center;
+}
+
+article {
+    margin: 0 auto;
+    padding: 1em;
+    width: 20em;
+
+}
+
+article img{
+    width: 100%;
+    width: calc(100% + 2em);
+    margin-left: -1em;
+    margin-right: -1em;
+
+
+}
+
+footer p{
+    text-align: center;
+}
